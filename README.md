@@ -20,7 +20,7 @@ PRISM investigates whether behavioural similarity and readily available meteorol
 ## Research Outputs
 
 ### ACPEE 2026
-**Seasonal Similarity for Behind-the-Meter PV Disaggregation in LV Networks
+**Seasonal Similarity for Behind-the-Meter PV Disaggregation in LV Networks**
 
 Initial PRISM work investigating seasonal demand behaviour and similarity-conditioned PV disaggregation.
 

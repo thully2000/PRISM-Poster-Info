@@ -34,7 +34,7 @@ Current work extends PRISM by comparing multiple behind-the-meter PV disaggregat
 ---
 
 ## Poster Resources
-- [Project References](references/PRISM_References.pdf)
+- [Project References](references/README.md)
 - [Poster PDF](poster/PRISM_Poster.pdf)
 
 ## Research Profiles

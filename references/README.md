@@ -10,13 +10,12 @@
 
 ### Journal articles
 
-- **A. Srivastava, J. Zhao, H. Zhu, F. Ding, S. Lei and others (2025).** Distribution System Behind-the-Meter DERs: Estimation, Uncertainty Quantification, and Control. *IEEE Transactions on Power Systems*, vol. 40, no. 1, pp. 1073–1090. [DOI](https://doi.org/10.1109/TPWRS.2024.3404815)
+- **A. Srivastava, J. Zhao, H. Zhu, F. Ding, S. Lei et al (2025).** Distribution System Behind-the-Meter DERs: Estimation, Uncertainty Quantification, and Control. *IEEE Transactions on Power Systems*, vol. 40, no. 1, pp. 1073–1090. [DOI](https://doi.org/10.1109/TPWRS.2024.3404815)
 - **Ahmed Rebei, Manar Amayri and Nizar Bouguila (2024).** Affinity-Driven Transfer Learning for Load Forecasting. *Sensors*, vol. 24, no. 17, pp. 5802. [DOI](https://doi.org/10.3390/s24175802)
 - **Nameer Al Khafaf, Hui Song, Ammar Kamoona, Nasser Sabar, Brendan McGrath, Xinghuo Yu, et al. (2026).** Smart Meter Data Intelligence for Sustainable Distribution Network Operations: State-of-the-Art Applications and Pathways Toward Net-Zero. *Renewable and Sustainable Energy Reviews*, vol. 231, pp. 116723. [DOI](https://doi.org/10.1016/j.rser.2026.116723)
 - **Andreas Kotsonias, Lenos Hadjidemetriou, Markos Asprou and Christos G. Panayiotou (2025).** Operational Challenges and Solution Approaches for Low Voltage Distribution Grids — A Review. *Electric Power Systems Research*, vol. 239, pp. 111258. [DOI](https://doi.org/10.1016/j.epsr.2024.111258)
 - **Rafiq Asghar, Francesco Riganti Fulginei, Michele Quercio and Assia Mahrouch (2024).** Artificial Neural Networks for Photovoltaic Power Forecasting: A Review. *IEEE Access*, vol. 12, pp. 90461–90485. [DOI](https://doi.org/10.1109/ACCESS.2024.3420693)
 - **Fankun Bu, Kaveh Dehghanpour, Yuxuan Yuan, Zhaoyu Wang and Yingchen Zhang (2020).** A Data-Driven Game-Theoretic Approach for Behind-the-Meter PV Generation Disaggregation. *IEEE Transactions on Power Systems*, vol. 35, no. 4, pp. 3133–3143. [DOI](https://doi.org/10.1109/TPWRS.2020.2966732)
-- **Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard and Charles Sutton (2016).** Sequence-to-Point Learning with Neural Networks for Non-Intrusive Load Monitoring. *arXiv preprint arXiv:1612.09106*.
 - **Arnab Chatterjee and Philipp Heer (2025).** Non-Intrusive Load Monitoring with Very Low-Frequency Data from Smart Meters in Switzerland. *Energy and Buildings*, vol. 344. [DOI](https://doi.org/10.1016/j.enbuild.2025.116002)
 - **Gianfranco Chicco (2012).** Overview and Performance Assessment of Clustering Methods for Electrical Load Pattern Grouping. *Energy*, vol. 42, pp. 68–80. [DOI](https://doi.org/10.1016/j.energy.2011.12.031)
 - **David Cruz-Rangel, Carlos Ocampo-Martinez and Javier Diaz-Rozo (2025).** Online Non-Intrusive Load Monitoring: A Review. *Energy Nexus*, vol. 17, pp. 100348. [DOI](https://doi.org/10.1016/j.nexus.2024.100348)
@@ -58,7 +57,7 @@
 ### Conference papers
 
 - **Thomas Hull, Xueqin Amy Liu, Robert Best and Che Cameron (2026).** Seasonal Similarity for Behind-the-Meter PV Disaggregation in LV Networks. *2026 11th Asia Conference on Power and Electrical Engineering (ACPEE)*, pp. 1108-1113. [DOI](https://doi.org/10.1109/ACPEE69242.2026.11524729)
-- **Taulant Ker\cci, Manuel Hurtado, Simon Tweed, Marta Val Escudero, Eoin Kennedy and Federico Milano (2024).** Emerging Challenges of Integrating Solar PV in the Ireland and Northern Ireland Power Systems. *IEEE Power and Energy Society General Meeting (PESGM)*. [DOI](https://doi.org/10.1109/PESGM51994.2024.10688761)
+- **Taulant K{\"e}r{\c{c}}i, Manuel Hurtado, Simon Tweed, Marta Val Escudero, Eoin Kennedy and Federico Milano (2024).** Emerging Challenges of Integrating Solar PV in the Ireland and Northern Ireland Power Systems. *IEEE Power and Energy Society General Meeting (PESGM)*. [DOI](https://doi.org/10.1109/PESGM51994.2024.10688761)
 - **Simon Schramm, Andras Kadar and Alexander Haas (2025).** Flexible Behind-the-Meter Battery Storage Model for Enhanced Mid- to Long-Term Load Forecasting. *European Energy Market (EEM)*. [DOI](https://doi.org/10.1109/EEM64765.2025.11050144)
 - **Bochao Zhao, Jiajun Ma, Wenpeng Luan and Bo Liu (2025).** A Data-Driven Behind-the-Meter PV Disaggregation Approach Based on Load State Identification. *IEEE International Electrical and Energy Conference (CIEEC)*, pp. 1537–1541. [DOI](https://doi.org/10.1109/CIEEC64805.2025.11116774)
 
@@ -72,3 +71,4 @@
 
 - **Copernicus Atmosphere Monitoring Service (CAMS) (2024).** Solar Radiation Time-Series Dataset. *European Centre for Medium-Range Weather Forecasts (ECMWF)*. [DOI](https://doi.org/10.24381/5cab0912)
 - **Joaquín Muñoz Sabater (2019).** ERA5-Land Hourly Data from 1950 to Present. *Copernicus Climate Change Service (C3S) Climate Data Store (CDS)*. [DOI](https://doi.org/10.24381/cds.e2161bac)
+- - **Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard and Charles Sutton (2016).** Sequence-to-Point Learning with Neural Networks for Non-Intrusive Load Monitoring. *arXiv preprint arXiv:1612.09106*.

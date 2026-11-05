@@ -57,7 +57,7 @@
 ### Conference papers
 
 - **Thomas Hull, Xueqin Amy Liu, Robert Best and Che Cameron (2026).** Seasonal Similarity for Behind-the-Meter PV Disaggregation in LV Networks. *2026 11th Asia Conference on Power and Electrical Engineering (ACPEE)*, pp. 1108-1113. [DOI](https://doi.org/10.1109/ACPEE69242.2026.11524729)
-- **Taulant K{\"e}r{\c{c}}i, Manuel Hurtado, Simon Tweed, Marta Val Escudero, Eoin Kennedy and Federico Milano (2024).** Emerging Challenges of Integrating Solar PV in the Ireland and Northern Ireland Power Systems. *IEEE Power and Energy Society General Meeting (PESGM)*. [DOI](https://doi.org/10.1109/PESGM51994.2024.10688761)
+- **Taulant Kërçi, Manuel Hurtado, Simon Tweed, Marta Val Escudero, Eoin Kennedy and Federico Milano (2024).** Emerging Challenges of Integrating Solar PV in the Ireland and Northern Ireland Power Systems. *IEEE Power and Energy Society General Meeting (PESGM)*. [DOI](https://doi.org/10.1109/PESGM51994.2024.10688761)
 - **Simon Schramm, Andras Kadar and Alexander Haas (2025).** Flexible Behind-the-Meter Battery Storage Model for Enhanced Mid- to Long-Term Load Forecasting. *European Energy Market (EEM)*. [DOI](https://doi.org/10.1109/EEM64765.2025.11050144)
 - **Bochao Zhao, Jiajun Ma, Wenpeng Luan and Bo Liu (2025).** A Data-Driven Behind-the-Meter PV Disaggregation Approach Based on Load State Identification. *IEEE International Electrical and Energy Conference (CIEEC)*, pp. 1537–1541. [DOI](https://doi.org/10.1109/CIEEC64805.2025.11116774)
 

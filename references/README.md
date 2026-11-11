@@ -6,6 +6,8 @@
 
 [2] Y. Yuan and Z. Wang, "Mining smart meter data to enhance distribution grid observability for behind-the-meter load control: significantly improving system situational awareness and providing valuable insights," IEEE Electrification magazine, vol. 9, no. 3, pp. 92-103, 2021. [DOI](https://doi.org/10.1109/MELE.2021.3093636)
 
+[3] Copernicus Atmosphere Monitoring Service (CAMS) (2024). Solar Radiation Time-Series Dataset. European Centre for Medium-Range Weather Forecasts (ECMWF). [DOI](https://doi.org/10.24381/5cab0912) 
+
 ## Other Relevant References Used Throughout the Project
 
 ### Journal articles
@@ -69,6 +71,5 @@
 
 ### Datasets and other resources
 
-- **Copernicus Atmosphere Monitoring Service (CAMS) (2024).** Solar Radiation Time-Series Dataset. *European Centre for Medium-Range Weather Forecasts (ECMWF)*. [DOI](https://doi.org/10.24381/5cab0912)
 - **Joaquín Muñoz Sabater (2019).** ERA5-Land Hourly Data from 1950 to Present. *Copernicus Climate Change Service (C3S) Climate Data Store (CDS)*. [DOI](https://doi.org/10.24381/cds.e2161bac)
-- - **Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard and Charles Sutton (2016).** Sequence-to-Point Learning with Neural Networks for Non-Intrusive Load Monitoring. *arXiv preprint arXiv:1612.09106*.
+- **Chaoyun Zhang, Mingjun Zhong, Zongzuo Wang, Nigel Goddard and Charles Sutton (2016).** Sequence-to-Point Learning with Neural Networks for Non-Intrusive Load Monitoring. *arXiv preprint arXiv:1612.09106*.
